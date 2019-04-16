@@ -1,0 +1,12 @@
+{
+  "name": "pos_with_express",
+  "version": "1.0.0",
+  "description": "POS收银机 版本：Express Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
